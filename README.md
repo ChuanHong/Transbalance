@@ -24,6 +24,7 @@ To install the latest version of `Transbalance` from GitHub, run the following c
 if (!requireNamespace("devtools", quietly = TRUE)) {
   install.packages("devtools")
 }
+devtools::install_github("michaelyanwang/divideconquer")
 devtools::install_github("ChuanHong/Transbalance")
 ```
 
