@@ -11,7 +11,6 @@
   - Naive global
   - Local model with ROSE oversampling
   - Global model with ROSE oversampling
-  - Density ratio estimator
 - Functions for calculating the predicted probabilities
 - Performance evaluation metrics
 - Extensive documentation and examples
