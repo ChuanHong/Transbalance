@@ -92,7 +92,7 @@ betahat=main_kern(dat.train.s, dat.train.t,
                    sampling=sampling,
                    model=model,
                    fed=fed,
-                   nm.study.rm.fed="None", myseed=myseed)
+                   nm.study.rm.fed="None", myseed=1)
 
 shat=val.fun.new(betahat[-1], dat.val,nm.out="y")
 ```
